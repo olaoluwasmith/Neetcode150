@@ -15,4 +15,4 @@ class Solution:
         return True
 
 sol = Solution()
-print(sol.isAnagram("random", "random"))
+print(sol.isAnagram("random", "suya"))
